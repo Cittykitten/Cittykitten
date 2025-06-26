@@ -43,7 +43,7 @@
 📌 Featured Projects
 
 - 🌐 [Mental Health Platform](https://mentalhealth-flame-ten.vercel.app/)  
-- 🧠 [AVN electronics](#)  
+- 🧠 [AVN electronics](https://mentalhealth-flame-ten.vercel.app/)  
 - 🛠️ [MenD Garage Website](https://men-d-official.vercel.app/index.html)
 
 
