@@ -31,7 +31,7 @@
 
 
 
-📊 GitHub Stats
+📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cittykitten&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/>
