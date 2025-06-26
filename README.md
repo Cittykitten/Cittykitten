@@ -1,4 +1,4 @@
-👋 Hi there, I’m Tegah Emmanuella — aka Cittykitten 🐾
+👋 Hi there, I’m Tegah Emmanuella :Call_me_hand: aka Cittykitten 🐾
 
 
 
