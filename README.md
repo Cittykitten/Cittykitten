@@ -40,3 +40,20 @@
 
 
 
+📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cittykitten&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cittykitten&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</div>
+
+---
+
+📌 Featured Projects
+
+- 🌐 [Mental Health Platform](#)  
+- 🧠 [Climate Ghana](#)  
+- 🛠️ [MenD Garage Website](#)
+
+
+
