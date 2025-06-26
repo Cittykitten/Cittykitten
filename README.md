@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/ios-filled/50/figma.png" />
 <img align="left" alt="Firebase" width="40px" src="https://img.icons8.com/color/48/firebase.png" />
-<img align="left" alt="GreenSock" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-greensock-animation-platform-for-the-web-logo-color-tal-revivo.png" />
 <img align="left" alt="Webflow" width="40px" src="https://img.icons8.com/ios-filled/50/webflow.png" />
 <img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/48/html-5--v1.png" />
 <img align="left" alt="CSS3" width="40px" src="https://img.icons8.com/color/48/css3.png" />
