@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I write better code when music is playing in the background.
 -->
 
-## 🛠 Tech & Tools
+## 🛠 Tech Stack
 
 <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/ios-filled/50/figma.png" />
 <img align="left" alt="Webflow" width="40px" src="https://img.icons8.com/ios-filled/50/webflow.png" />
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/officel/40/react.png" />
 <img align="left" alt="Tailwind" width="40px" src="https://img.icons8.com/color/48/tailwind_css.png" />
 <img align="left" alt="WordPress" width="40px" src="https://img.icons8.com/color/48/wordpress.png" />
+<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/ios-glyphs/40/github.png" />
 <br/><br/>
