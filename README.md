@@ -42,8 +42,8 @@
 
 📌 Featured Projects
 
-- 🌐 [Mental Health Platform](#)  
-- 🧠 [Climate Ghana](#)  
+- 🌐 [Mental Health Platform](https://mentalhealth-flame-ten.vercel.app/)  
+- 🧠 [AVN electronics](#)  
 - 🛠️ [MenD Garage Website](https://men-d-official.vercel.app/index.html)
 
 
