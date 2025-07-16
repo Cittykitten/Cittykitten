@@ -19,15 +19,17 @@
 
 <p align="left">
   <img src="https://img.icons8.com/ios-filled/50/figma.png" alt="Figma" title="Figma" width="40"/>
-<!--   <img src="https://img.icons8.com/ios-filled/50/webflow.png" alt="Webflow" title="Webflow" width="40"/> -->
+  <!-- <img src="https://img.icons8.com/ios-filled/50/webflow.png" alt="Webflow" title="Webflow" width="40"/> -->
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5" width="40"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3" width="40"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40"/>
   <img src="https://img.icons8.com/officel/40/react.png" alt="React" title="React" width="40"/>
-<!--   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="40"/> -->
+  <!-- <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="40"/> -->
   <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress" title="WordPress" width="40"/>
   <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub" width="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP" title="GSAP" width="40"/>
 </p>
+
 
 
 
