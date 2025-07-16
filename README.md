@@ -27,7 +27,7 @@
   <!-- <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="40"/> -->
   <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress" title="WordPress" width="40"/>
   <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-a-suite-of-tools-for-high-performance-html5-animations-logo-color-tal-revivo.png" alt="GSAP" title="GSAP" width="40"/>
+<!--   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-a-suite-of-tools-for-high-performance-html5-animations-logo-color-tal-revivo.png" alt="GSAP" title="GSAP" width="40"/> -->
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/greensock.svg" alt="GSAP" title="GSAP" width="40" style="filter: invert(41%) sepia(80%) saturate(395%) hue-rotate(70deg) brightness(95%) contrast(92%);"/>
 </p>
 
