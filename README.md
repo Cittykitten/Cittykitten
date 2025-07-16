@@ -27,8 +27,9 @@
   <!-- <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="40"/> -->
   <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress" title="WordPress" width="40"/>
   <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub" width="40"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="GSAP" title="GSAP" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-a-suite-of-tools-for-high-performance-html5-animations-logo-color-tal-revivo.png" alt="GSAP" title="GSAP" width="40"/>
 </p>
+
 
 
 
