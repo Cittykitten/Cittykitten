@@ -46,6 +46,7 @@
 
 
 ## 🧠 My Activity Graph
+![Cittykitten's Contribution Graph]
 <p align="center">
   <img src="https://github.com/your-username/your-repo-name/blob/main/contribution-graph.png" width="600"/>
 </p>
