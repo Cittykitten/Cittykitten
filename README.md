@@ -15,10 +15,11 @@
 
 
 
-🛠 Tech Stack
+🛠 Tech Stack 
+## I code with
 
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/figma.png" alt="Figma" title="Figma" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <!-- <img src="https://img.icons8.com/ios-filled/50/webflow.png" alt="Webflow" title="Webflow" width="40"/> -->
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5" width="40"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3" width="40"/>
@@ -30,7 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 <!--   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-a-suite-of-tools-for-high-performance-html5-animations-logo-color-tal-revivo.png" alt="GSAP" title="GSAP" width="40"/> -->
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/greensock.svg" alt="GSAP" title="GSAP" width="40" style="filter: invert(41%) sepia(80%) saturate(395%) hue-rotate(70deg) brightness(95%) contrast(92%);"/>
 </p>
@@ -51,8 +53,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
