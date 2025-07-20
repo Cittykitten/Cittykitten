@@ -60,13 +60,12 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="60%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" width="60%" />
 </p>
 
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" />
 
 
 
