@@ -100,7 +100,7 @@
 </head>
 <body>
 
-  <h2>Aman Kumar's Contribution Graph</h2>
+  <h2>Cittykitten's Contribution Graph</h2>
   <canvas id="contributionChart"></canvas>
 
   <script>
