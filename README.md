@@ -59,19 +59,10 @@
 ## 🧠 My  GitHub Streak 
 
 <p align="center">
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&theme=react-dark" width="90%"/> -->
-<!-- </p> -->
-<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&theme=github"/> -->
-<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&area=true&hide_border=true&theme=react-dark"/> -->
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Cittykitten&show_icons=true&theme=react&hide_title=false&hide=issues&rank_icon=github" width="50%"/> -->
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="60%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" />
 </p>
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cittykitten&layout=compact&theme=react" width="45%"/> -->
-</p>
+
 
 
 
