@@ -52,6 +52,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&theme=react-dark" width="90%"/>
 </p>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&theme=github"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&area=true&hide_border=true&theme=react-dark"/>
+
 
 
 
