@@ -58,7 +58,7 @@
 
 ## 🧠 My  GitHub Streak 
 
-<p align="center">
+<p align="center" display="flex">
   <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="60%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" width="60%" />
 </p>
