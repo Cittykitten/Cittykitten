@@ -15,8 +15,8 @@
 
 
 
-🛠 Tech Stack 
-## I code with
+
+## My Tech Stack...  🛠 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
