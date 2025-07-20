@@ -54,6 +54,24 @@
 </p>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&theme=github"/>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&area=true&hide_border=true&theme=react-dark"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cittykitten&show_icons=true&theme=react&hide_title=false&hide=issues&rank_icon=github" width="50%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="60%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cittykitten&layout=compact&theme=react" width="45%"/>
+</p>
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff"/>
+</p>
 
 
 
