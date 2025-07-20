@@ -27,6 +27,8 @@
   <!-- <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="40"/> -->
   <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress" title="WordPress" width="40"/>
   <img src="https://img.icons8.com/ios-glyphs/40/github.png" alt="GitHub" title="GitHub" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <!--   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-a-suite-of-tools-for-high-performance-html5-animations-logo-color-tal-revivo.png" alt="GSAP" title="GSAP" width="40"/> -->
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/greensock.svg" alt="GSAP" title="GSAP" width="40" style="filter: invert(41%) sepia(80%) saturate(395%) hue-rotate(70deg) brightness(95%) contrast(92%);"/>
 </p>
@@ -62,12 +64,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 
