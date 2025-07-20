@@ -52,9 +52,7 @@
 </div>
 
 
-## 🧠 My Activity Graph
-![Cittykitten's Contribution Graph]
-## 📊 My GitHub Contribution Graph
+## 🧠 My  GitHub Streak Graph
 
 <p align="center">
 <!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cittykitten&theme=react-dark" width="90%"/> -->
