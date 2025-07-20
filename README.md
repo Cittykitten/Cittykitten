@@ -47,9 +47,9 @@
 
 ## 🧠 My Activity Graph
 ![Cittykitten's Contribution Graph]
-<p align="center">
-  <img src="https://github.com/Cittykitten/Cittykitten/blob/main/contributiongraph.png" width="600"/>
-</p>
+## 📊 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?Cittykitten=Cittykitten&theme=react-dark)
+
 
 
 
