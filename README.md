@@ -2,7 +2,7 @@
 
 
 
-💡 About Me
+## 💡 About Me
 
 - 🔭 I’m currently working on **a comprehensive Mental Health Support Platform**
 - 🌱 I’m currently learning **React**
@@ -48,7 +48,7 @@
 </p>
 
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cittykitten&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/>
@@ -56,7 +56,7 @@
 </div>
 
 
-## 🧠 My  GitHub Streak 
+## 🧠 My  GitHub Streak and Contribution graph
 
 <p align="center" display="flex">
   <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="40%"/>
@@ -70,7 +70,7 @@
 
 
 
-📌 Featured Projects
+## 📌 Featured Projects
 
 - [Mental Health Platform](https://mentalhealth-flame-ten.vercel.app/)  
 - [MenD Garage Website](https://men-d-official.vercel.app/index.html)
