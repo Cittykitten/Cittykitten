@@ -69,7 +69,7 @@
   <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="40%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" width="50%" />
 </p>
-
+  <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="40%"/>
 ## 📌 Featured Projects
 
 - [Mental Health Platform](https://mentalhealth-flame-ten.vercel.app/)  
