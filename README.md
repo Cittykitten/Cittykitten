@@ -91,6 +91,12 @@
   <img src="https://raw.githubusercontent.com/Cittykitten/Cittykitten/output/snake-dark.svg" />
 </p>
 
+## 💻 Languages I Use
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cittykitten&layout=compact&theme=tokyonight" />
+</p>
+
 
 
 ## 📌 Featured Projects
