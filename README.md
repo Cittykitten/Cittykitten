@@ -76,6 +76,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" width="50%" />
 </p>
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cittykitten/Cittykitten/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 ## 📌 Featured Projects
 
 - [Mental Health Platform](https://mentalhealth-flame-ten.vercel.app/)  
