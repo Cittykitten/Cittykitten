@@ -3,8 +3,6 @@
 </p>
 
 
-👋 Hi there, I’m Tegah Emmanuella 🤙 aka Cittykitten 🐾
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Cittykitten&fontSize=50&animation=fadeIn" />
