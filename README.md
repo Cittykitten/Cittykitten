@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Cittykitten&fontSize=50&animation=fadeIn" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=180&text=Welcome%20to%20Cittykitten's%20GitHub&fontColor=ffffff" />
-</p>
+</p>-->
 
 
 
