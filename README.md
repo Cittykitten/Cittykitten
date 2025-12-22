@@ -1,6 +1,5 @@
 👋 Hi there, I’m Tegah Emmanuella 🤙 aka Cittykitten 🐾
 
-&theme=github_dark
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Cittykitten&fontSize=50&animation=fadeIn" />
