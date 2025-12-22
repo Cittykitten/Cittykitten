@@ -14,7 +14,7 @@
 
 
 
-## 💡 About Me
+<!--## 💡 About Me
 
 - 🔭 I’m currently working on **a comprehensive Mental Health Support Platform**
 - 🌱 I’m currently learning **React**
@@ -23,7 +23,37 @@
 - 💬 Ask me about **Website development, design systems, and how to survive endless browser bugs**
 - 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/emmanuella-tegah-56b902355/) | [Email](mailto:tegahtiana14@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I write better code when music is playing in the background 🎧
+- ⚡ Fun fact: I write better code when music is playing in the background 🎧-->
+
+
+
+## 💡 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+a+Mental+Health+Support+Platform;Learning+React+one+component+at+a+time;Collaborating+on+projects+that+heal+and+empower;Writing+better+code+with+music+on+%F0%9F%8E%A7" />
+</p>
+
+### 🌱 What I’m Up To
+- 🔭 Building a **comprehensive Mental Health Support Platform**
+- 🌱 Learning **React** and modern frontend patterns
+
+### 🤝 Let’s Collaborate
+- Projects that **empower, heal, or inspire**
+- Ideas that mix **tech + purpose**
+
+### 🛠 Currently Exploring
+- Scaling platforms  
+- Backend setup and architecture  
+- Making frontend and backend talk nicely 😄
+
+### 💬 Ask Me About
+Website development, design systems, and surviving endless browser bugs
+
+### 📫 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/emmanuella-tegah-56b902355/) • [Email](mailto:tegahtiana14@gmail.com)
+
+⚡ *Fun fact:* I write better code with music playing 🎧
+
 
 
 
