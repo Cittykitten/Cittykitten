@@ -91,11 +91,6 @@
   <img src="https://raw.githubusercontent.com/Cittykitten/Cittykitten/output/snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cittykitten/Cittykitten/output/snake-dark.svg" />
-</p>
-
-
 
 
 ## 📌 Featured Projects
