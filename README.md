@@ -30,7 +30,7 @@
 
 ## My Tech Stack...  🛠 
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <!-- <img src="https://img.icons8.com/ios-filled/50/webflow.png" alt="Webflow" title="Webflow" width="40"/> -->
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5" width="40"/>
@@ -50,7 +50,7 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -69,7 +69,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cittykitten&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cittykitten&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
