@@ -17,7 +17,7 @@
 ## 💡 About Me
 
 - 🔭 I’m currently working on **a comprehensive Mental Health Support Platform**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **projects that empower, heal, or inspire**
 - 🤔 I’m looking for help with **scaling my platform and setting up backend magic**
 - 💬 Ask me about **Website development, design systems, and how to survive endless browser bugs**
