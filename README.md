@@ -75,16 +75,6 @@
 </div>
 
 
-## 🧠 My GitHub Streak and Contribution Graph
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cittykitten&theme=react" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cittykitten&theme=react-dark"/>
-</p>
-
 
 ## 🌍 Visitors
 
@@ -96,7 +86,7 @@
 ## 🧠 My  GitHub Streak and Contribution graph
 
 <p align="left" display="flex">
-  <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="40%"/>
+  <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="40%" height="160"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" width="50%" />
 </p>
 
