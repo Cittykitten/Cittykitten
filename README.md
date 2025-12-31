@@ -74,6 +74,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cittykitten&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cittykitten&show_icons=true&theme=radical&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cittykitten&layout=compact&theme=radical&cache_seconds=86400" height="160"/>
+</p>
+
+
 ## 🌍 Visitors
 
 <p align="center">
