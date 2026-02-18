@@ -16,14 +16,14 @@
 
 ## 💡 About Me
 
-- 🔭 I’m currently working on **a comprehensive Mental Health Support Platform**
+##- 🔭 I’m currently working on **a comprehensive Mental Health Support Platform**
 - 🌱 I’m currently learning **Python**
-- 👯 I’m looking to collaborate on **projects that empower, heal, or inspire**
-- 🤔 I’m looking for help with **scaling my platform and setting up backend magic**
-- 💬 Ask me about **Website development, design systems, and how to survive endless browser bugs**
-- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/emmanuella-tegah-56b902355/) | [Email](mailto:tegahtiana14@gmail.com)
+## 👯 I’m looking to collaborate on **projects that empower, heal, or inspire**
+## 🤔 I’m looking for help with **scaling my platform and setting up backend magic**
+- 💬 Ask me about **Website development, design systems, and browser bugs**
+## 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/emmanuella-tegah-56b902355/) | [Email](mailto:tegahtiana14@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I write better code when music is playing in the background 🎧
+- ⚡ Fun fact: I write better code with music 🎧
 
 
 
